@@ -140,6 +140,11 @@ hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
 
 [[files]]
+file = "mods/hardcore-questing-mode.pw.toml"
+hash = "af98149f6e82f85c61e6cba62b71c968695ffe7f77dad1249c817719107e238c"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-revival.pw.toml"
 hash = "29ef305dc9c44938ad94842585429619bae378111561716d7be0460db26a544b"
 metafile = true
