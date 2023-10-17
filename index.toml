@@ -9,8 +9,9 @@ file = "config/oculus.properties"
 hash = "3e9cabb7b3f47f68ca3dca41bb090ab9db20b32a3a4832d8497c3a599cdcd111"
 
 [[files]]
-file = "config/physics_server_config.json"
-hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+file = "config/physicsmod/physics_server_config.json"
+hash = "8d9c24916c53a74dca5c73c051a9bcd3afb9d0550f744d2321b7afa665bc660d"
+preserve = true
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
