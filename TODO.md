@@ -1,7 +1,7 @@
 # TODO
 * [ ] Throw initial mods together and test.
-* [ ] Disable Physics Mod's `collapse` setting (structural integrity)
-* [ ] Disable Wobbly Creepers from *Better Animations*.
+* [X] Disable Physics Mod's `collapse` setting (structural integrity)
+* [X] Disable Wobbly Creepers from *Better Animations*.
 * [ ] Adjust other settings.
 * [ ] Test VoiceChat.
 * [ ] Get overview of all bosses.
