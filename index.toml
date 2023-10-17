@@ -3,10 +3,17 @@ hash-format = "sha256"
 [[files]]
 file = "config/betteranimationscollection-client.toml"
 hash = "eb4d71e25a5fabc7f5688f7face96c1cae8b887745b19e810568b3779a535e38"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "ccefc9950a22e0c5acc1bfc19c77112adfb9114bffe4fe167b27aea90e8eefd3"
+preserve = true
 
 [[files]]
 file = "config/oculus.properties"
 hash = "3e9cabb7b3f47f68ca3dca41bb090ab9db20b32a3a4832d8497c3a599cdcd111"
+preserve = true
 
 [[files]]
 file = "config/physicsmod/physics_server_config.json"
@@ -299,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1dbc16b7c9c72a3e3510bafec66b348ee419fc9295f51c4bf78744ed1b58a163"
+hash = "4d0d86e17bf025071916466e771451b5ec0012487cc6f0f0bdfbb4cac00b16a7"
 preserve = true
 
 [[files]]
