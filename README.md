@@ -82,6 +82,7 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * CraftTweaker (Allows tweaking of recipes to solve conflicts etc.)
 * Config Menus for Forge (Easier settings)
 * AttributeFix (Fixes some common bugs in other mods)
+* Rubidium (Forge port of Sodium. Improves Performance)
 
 ## Tweaked settings
 * Disabled `collapse` setting from *Physics Mod*, to avoid the aggressive structural integrity implementation.

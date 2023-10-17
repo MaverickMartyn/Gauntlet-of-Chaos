@@ -5,6 +5,10 @@ file = "config/betteranimationscollection-client.toml"
 hash = "eb4d71e25a5fabc7f5688f7face96c1cae8b887745b19e810568b3779a535e38"
 
 [[files]]
+file = "config/oculus.properties"
+hash = "3e9cabb7b3f47f68ca3dca41bb090ab9db20b32a3a4832d8497c3a599cdcd111"
+
+[[files]]
 file = "config/physics_server_config.json"
 hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
@@ -233,6 +237,11 @@ hash = "c722e969d69652969a6a4449bf53bbf9622a00b0baf4fef72d00221ea8233129"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "75218684c426633372d8c31fda9c767eedaf9a4eda4e54347e11b6a1408459db"
 metafile = true
@@ -299,10 +308,10 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "227e2dcbcdbfd10db03bc2bc6aff71e37e7cbe5d82c7057ae56ac27deaef1379"
+hash = "1dbc16b7c9c72a3e3510bafec66b348ee419fc9295f51c4bf78744ed1b58a163"
 preserve = true
 
 [[files]]
-file = "shaders/complementary-unbound.pw.toml"
-hash = "7a9543b90256fff8f1f82934d2dc6a8c65541b9875ac7ec99dc78696a2d28392"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "241c46d8487c4df8e096379099187b7d043893c1d44ece7f356fac93473f39a3"
 metafile = true
