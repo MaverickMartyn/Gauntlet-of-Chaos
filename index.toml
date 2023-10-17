@@ -134,6 +134,16 @@ hash = "29ef305dc9c44938ad94842585429619bae378111561716d7be0460db26a544b"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "3a6ef3205134c85a10deb5bb8e2726e40f3548c4a1d1d01bf2c7f1f5abd0663c"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "91daae8c92b7a1e2696b3171ca86d35b369ed240d055cdebcc6cac77ebad9288"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
@@ -156,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/lava-monsters.pw.toml"
 hash = "67cc30e87dcf2a2f18b97a4f7ef8e5df05f37ac2cffc72b3af3e2f2ea4e40b90"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "9cd7aebfa1d877a948b03236cfe8712479facfb7235b4126b899ef0042924233"
 metafile = true
 
 [[files]]
@@ -263,6 +278,11 @@ hash = "8bd5bc2330225cac3d3d1599b9c7ccfae687347735d8ac5327ad4d76fd295551"
 metafile = true
 
 [[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "fc609c2c8e3d9ce340a79e7cc1c81da7168e982f1c5a37705bbe4fcf89d06d47"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
 metafile = true
@@ -276,6 +296,11 @@ metafile = true
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "5e692eaff3303988ab41f765070feff25b42dce4a90c23cc696dfbb8a450c392"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c44d20551323a510abefb8f8d88520d57612d54bdca69108091078f1e5edb947"
+preserve = true
 
 [[files]]
 file = "shaders/complementary-unbound.pw.toml"

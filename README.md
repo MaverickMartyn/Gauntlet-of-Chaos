@@ -11,14 +11,17 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 
 ## Mods
 
+(?) = Under consideration.
+
 **Quality of Life & UI:**
 * JourneyMap (or other map mod)
-* Misc QOL mods (Like the one that improves item-transfer controls)
 * Building Gadgets (Tools/items for making building stuff easier)
 * Just Enough Items (opskrifter osv.)
 * Appleskin (Better hunger HUD)
 * Better Advancements
 * Fast Leaf Decay
+* Inventory Profiles Next
+* Inventory Essentials
 
 **Visual & Audio:**
 * Simple VoiceChat
@@ -44,22 +47,23 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * Sophisticated Backpacks
 * Some structural integrity mod? (implementation in the Physics mod seems a little much)
 * Eureka! (for airships + custom ships)
-* Natural Disasters (If not too annoying, especially when people are offline)
 * Artifacts (More interesting loot)
 * Curios (rings, amulets, belts etc.)
 * Nature's Compass (Find any biome you need)
 * Waystones
 * Iron Chests (Upgradable storage)
+* Tool Belt
+* (?) Natural Disasters (If not too annoying, especially when people are offline)
 
 **Bosses, Dungeons, Dimensions, etc.:**
 * Aether
 * Twillight Forest.
-* Blue Skies?
+* Blue Skies
 * Biomes O' Plenty (More biomes and places to see)
 * When Dungeons Arise (Bigger, better dungeons)
+* Lava Monsters (Just a new mob)
 * Any other big boss fights
     More ocean/under-water based dungeons and bosses.
-* Lava Monsters (Just a new mob)
 
 **Tech:**
 * Mekanism, Mekanism Tools, Mekanism Generators and Mekanism Additions
@@ -68,11 +72,11 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 
 **Magic:**
 * Ars Novou
-* Bewitchment (loads of cool magic stuff. Spiritual successor to *Withcery!*)
+* Something akin to Bewitchment/Witchery, if I can find it. Witchery is no longer maintained, and Bewitchment is Fabric only.
 * maybe other magic mods?
 
 **Under consideration:**
-* Origins. Depends on how many additional Origins I can find.
+* Origins. Depends on how many additional Origins I can  find.
 
 **Techinical Stuff (fixes & such):**
 * CraftTweaker (Allows tweaking of recipes to solve conflicts etc.)
@@ -82,3 +86,5 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 ## Tweaked settings
 * Disabled `collapse` setting from *Physics Mod*, to avoid the aggressive structural integrity implementation.
 * Disabled Wobbly Creepers form *Better Animations Collection*, since it looks a bit silly.
+* **Vanilla**:
+    * Set GUI scale to 2 (Better default size).
