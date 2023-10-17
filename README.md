@@ -89,5 +89,8 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 ## Tweaked settings
 * Disabled `collapse` setting from *Physics Mod*, to avoid the aggressive structural integrity implementation.
 * Disabled Wobbly Creepers form *Better Animations Collection*, since it looks a bit silly.
+* Disabled Continous Crafting from *Inventory Profiles*. It's a litle confusing if enabled by default.
 * **Vanilla**:
     * Set GUI scale to 2 (Better default size).
+    * Set music volume to 20% by default.
+    * Swapped sprint and sneak controls.
