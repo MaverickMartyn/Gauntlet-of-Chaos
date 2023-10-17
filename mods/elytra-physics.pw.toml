@@ -1,0 +1,13 @@
+name = "Elytra Physics"
+filename = "ElytraPhysicsForge-1.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9999e8ddbabe31b4e6ff15392547a81feb4ad0b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4665965
+project-id = 650221

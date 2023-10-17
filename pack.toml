@@ -1,0 +1,13 @@
+name = "Gauntlet of Chaos"
+author = "MaverickMartyn"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f48640e47062cca639f5df122c48e418fef3cd37692c0cf6891b65bf04794973"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"
