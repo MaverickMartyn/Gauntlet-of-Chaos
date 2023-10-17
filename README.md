@@ -79,6 +79,6 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * Config Menus for Forge (Easier settings)
 * AttributeFix (Fixes some common bugs in other mods)
 
-**Tweaked settings:**
+## Tweaked settings
 * Disabled `collapse` setting from *Physics Mod*, to avoid the aggressive structural integrity implementation.
 * Disabled Wobbly Creepers form *Better Animations Collection*, since it looks a bit silly.
