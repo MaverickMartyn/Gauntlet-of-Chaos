@@ -1,2 +1,3 @@
 version:3465
 guiScale:2
+onboardAccessibility:false
