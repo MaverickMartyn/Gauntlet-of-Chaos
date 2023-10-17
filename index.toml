@@ -21,6 +21,10 @@ hash = "8d9c24916c53a74dca5c73c051a9bcd3afb9d0550f744d2321b7afa665bc660d"
 preserve = true
 
 [[files]]
+file = "icon.png"
+hash = "96ac950042743559ecbbd58c61a31221d18669056b5d4aeda27a0e909a490430"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "1c3d57dc800be713c2431dfb52a60eaa47bad0c33720e85962d44f9ac9fa92a5"
 metafile = true
