@@ -46,7 +46,9 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * Supplementaries (Vanilla+ mod, much like Quark)
 * Sophisticated Backpacks
 * Some structural integrity mod? (implementation in the Physics mod seems a little much)
-* Eureka! (for airships + custom ships)
+* ~~Eureka! (for airships + custom ships)~~
+    * Left out for now, along with Valkyrien Skies, since the 1.20.1 version is incompatible with Rubidium 0.7.x+ at the moment.
+    * Looking for fix, patch or work-around.
 * Artifacts (More interesting loot)
 * Curios (rings, amulets, belts etc.)
 * Nature's Compass (Find any biome you need)
