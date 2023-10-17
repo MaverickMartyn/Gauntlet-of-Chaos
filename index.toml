@@ -123,11 +123,6 @@ hash = "65b774319bb52751afc8515e8982280e87baf2fba9fb4ea17edab10e76cde37b"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "9b0ca93f27d280239fdeec4ecd745286d897476ed6eeb256ac1a503045edaa52"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
@@ -289,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "fc609c2c8e3d9ce340a79e7cc1c81da7168e982f1c5a37705bbe4fcf89d06d47"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
 metafile = true
 
 [[files]]
