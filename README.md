@@ -86,10 +86,16 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * AttributeFix (Fixes some common bugs in other mods)
 * Rubidium (Forge port of Sodium. Improves Performance)
 
-## Tweaked settings
-* Disabled `collapse` setting from *Physics Mod*, to avoid the aggressive structural integrity implementation.
-* Disabled Wobbly Creepers form *Better Animations Collection*, since it looks a bit silly.
-* Disabled Continous Crafting from *Inventory Profiles*. It's a litle confusing if enabled by default.
+## Tweaked Settings
+* **Physics Mod**
+    * Disabled `collapse` setting, to avoid the aggressive structural integrity implementation.
+* **Better Animations Collection**
+    * Disabled Wobbly Creepers since they looks a bit silly.
+* **Inventory Profiles**
+    * Disabled Continous Crafting. It's a little confusing if enabled by default.
+* **Hardcore Questing Mode**
+    * Added custom logo on frontpage. (Might want to replace with more appropriate art at some point)
+    * Custom quest lines and rewards.
 * **Vanilla**:
     * Set GUI scale to 2 (Better default size).
     * Set music volume to 20% by default.
