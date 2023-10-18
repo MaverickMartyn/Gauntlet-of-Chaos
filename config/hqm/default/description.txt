@@ -1,0 +1,5 @@
+This pack is focused on surviving the harsh environment in a modded hardcore scenario.  
+There are multiple dangers in the form of natural disasters, new mobs, dungeons and bosses.  
+In multiplayer, players can be rescued within a time limit if downed. Upon death, a corpse is left behind. Extra lives can be earned through progress.  
+Follow the Quest Book (with completely custom built quests), and take on the *Gauntlet of Chaos*, as you beat each boss in the pack to restore order to the world.  
+Includes some light magic and tech mods, as well as custom ship building for travel.

@@ -1,0 +1,52 @@
+{
+  "name": "A taste of Vanilla",
+  "quests": [
+    {
+      "uuid": "a1d06484-fe8e-4b27-9f4a-28ce2021f680",
+      "name": {
+        "text": "Kill The Wither",
+        "isTranslationKey": false
+      },
+      "description": {
+        "text": "Take out the Wither Boss.",
+        "isTranslationKey": false
+      },
+      "x": 25,
+      "y": 19,
+      "icon": {
+        "id": "minecraft:wither_skeleton_skull",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "hardcorequesting:kill",
+          "mobs": [
+            {
+              "name": {
+                "text": "New",
+                "isTranslationKey": false
+              },
+              "icon": {
+                "id": "minecraft:wither_skeleton_skull",
+                "Count": 1
+              },
+              "mob": "minecraft:wither",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:netherite_ingot",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

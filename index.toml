@@ -6,6 +6,43 @@ hash = "eb4d71e25a5fabc7f5688f7face96c1cae8b887745b19e810568b3779a535e38"
 preserve = true
 
 [[files]]
+file = "config/hqm/config.json5"
+hash = "d3909ef1a2d07447a9740701ef486b4d86862e531c0cb4cc9477dbf3d6192dee"
+preserve = true
+
+[[files]]
+file = "config/hqm/default/bags.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/hqm/default/description.txt"
+hash = "a51d5ad9458d4a3fde355f0bb88e32881d256d6611c337268d4d4e5558f9bb02"
+
+[[files]]
+file = "config/hqm/default/reputations.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/hqm/default/sets.json"
+hash = "6325b61cda500beafaf1dd86759359339338991b535ba12bb57e2766f22bdec0"
+
+[[files]]
+file = "config/hqm/default/sets/A_taste_of_Vanilla.json"
+hash = "a45f3e704cbdc04dc63cb62cf109d1b72c81a51411a7aa728c5be702f19586a9"
+
+[[files]]
+file = "config/hqm/default/sets/Chill_for_a_bit.json"
+hash = "2e06dacb1483b758526515cdc47e67b6c3a3f9ef7a09cd6162b09dde10d808cc"
+
+[[files]]
+file = "config/hqm/default/sets/Through_The_Fire_&_Flames.json"
+hash = "0e9c5001e4f1208a031dc4cccb9b063923876a33e915d0f3c7aaebdf7e06d993"
+
+[[files]]
+file = "config/hqm/front.png"
+hash = "fb1e4f160c6dd302a490e749ca8f21d9705153874a7b576091fef7a1200fdbc3"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ccefc9950a22e0c5acc1bfc19c77112adfb9114bffe4fe167b27aea90e8eefd3"
 preserve = true
