@@ -61,6 +61,71 @@ file = "icon.png"
 hash = "96ac950042743559ecbbd58c61a31221d18669056b5d4aeda27a0e909a490430"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e49667b9ed9e64de288bfc1c1942cb0d3efdb3ae7d0607ad0c951bb34567e463"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "4f5b5bd51df9a845eaf9f5d8136c891bfc8de335f321ae3ee73115b1d0cc7f3c"
+metafile = true
+
+[[files]]
+file = "mods/charm.pw.toml"
+hash = "45086e2baab1c96f628e8faed67373ee06f36396eaf00f8db1d6c66b72c03a8b"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "524093ce697993fd7da9246c2101f3f182f4be829987dd1fd8c8fa79c2089a06"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "cc3e99c2dac6d48d96fa0b17b598e57f5ac6e8cf16ad06fdd9b116651895f478"
+metafile = true
+
+[[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "e620182b061ed671b64f0c0025665cd65bfa984be7c70563b3187147cb6217c0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "8b623f0940352b7acd355a40c0faed61659b50eab7050904654f88e460bc0d13"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "91e6ca5321ae6fa135d921fc2c56b0e98c1fb01ec0f296906b95200222eb62d6"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "1b9065253f46de161dc5639519d75dbad7ffb9f9bf6f6553442056e7c16ec8a5"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "4c4f6ebc50b52ed90c88294998cc46bcd045be6c67a78da9a526c1506d0385e2"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "4d0d86e17bf025071916466e771451b5ec0012487cc6f0f0bdfbb4cac00b16a7"
 preserve = true
