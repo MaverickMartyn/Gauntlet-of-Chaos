@@ -1,3 +1,5 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * -text
 mods/physics-mod-pro-*.jar filter=lfs diff=lfs merge=lfs -text
+mods/valkyrienskies-*.jar filter=lfs diff=lfs merge=lfs -text
+mods/clockwork-*.jar filter=lfs diff=lfs merge=lfs -text

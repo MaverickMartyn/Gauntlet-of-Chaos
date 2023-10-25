@@ -1,4 +1,5 @@
 version:3465
+autoJump:false
 guiScale:2
 onboardAccessibility:false
 soundCategory_music:0.2

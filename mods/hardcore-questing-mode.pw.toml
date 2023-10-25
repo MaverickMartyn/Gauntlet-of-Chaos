@@ -1,0 +1,13 @@
+name = "Hardcore Questing Mode [FORGE/FABRIC]"
+filename = "HQM-1.18.2-5.11.3-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af4f31f5d9daf5a34121d5616c206120a9a37d5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4550829
+project-id = 77027

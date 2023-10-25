@@ -1,0 +1,13 @@
+name = "Engineer's Construct"
+filename = "econstruct-1.18.2-0.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0be29241b7d2f30c370a41debdcfdbffd84925cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4733980
+project-id = 884163
