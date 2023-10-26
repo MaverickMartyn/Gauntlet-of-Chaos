@@ -106,6 +106,16 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
+file = "mods/awesome-dungeon-edition-ocean-forge.pw.toml"
+hash = "e7f1d553b73f3755819c1e171b58e9089d1992ed2b7a9773a181393f9fadbe3d"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-forge.pw.toml"
+hash = "329ef9cf0b519f327455d911ae2c231cc02303ec54998e85cf20833c8acbe9a5"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "23c80ede3b259c1c908ace792f0b95d7c6cb2155f2fcc1b3493e569b656162c2"
 metafile = true
@@ -165,6 +175,11 @@ hash = "76bd020482eb12f83f7232370e6a371ab0b429e3c3358d2cb8a9d04c709d9bb1"
 metafile = true
 
 [[files]]
+file = "mods/create-armory.pw.toml"
+hash = "9ab3dc616f8427cc1f730b7915ccc5d2e0851702a0c13af8de3afcbd7888f9d2"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
 metafile = true
@@ -177,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "2501a135e13170ec58f946ba34eea02562651a4e4ce3277802b912d32bf8a507"
+metafile = true
+
+[[files]]
+file = "mods/curios-quark-oddities-backpack.pw.toml"
+hash = "e8dbc6febd76f421f09c15af6f347a4bc333964313e1106f46bee668a3d8234c"
 metafile = true
 
 [[files]]
@@ -215,6 +235,11 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e2ecdb0eaa4c2118a320126f5993f781a302d8dec01a041374d5381ed54d6a44"
+metafile = true
+
+[[files]]
 file = "mods/hardcore-questing-mode.pw.toml"
 hash = "5785f41accfab4e5b73534e6f78d7205495965342566467dfb7a1955caa01663"
 metafile = true
@@ -237,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "9040a85194309387917dbea260b011e1fe505d268982aa8268443ddf10be32e3"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "db9b8bcc5f7df79d73d39ed8adcf8b3dd2879a2bf3d46c4dbac0d81bc750d439"
 metafile = true
 
 [[files]]
@@ -272,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/lava-monsters.pw.toml"
 hash = "228f08556c99c06390e31ec6975f9b57dc7a7d98421d547147d1e82995d53559"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-forge.pw.toml"
+hash = "84b4827d806ab6282cbff32eef4011053dc78685f3df718805a50213e55b3a7f"
 metafile = true
 
 [[files]]
@@ -449,6 +484,11 @@ hash = "bbcac108eb3d98535842213f234673bb2725e8abed191c8dc5c3893a3675999a"
 metafile = true
 
 [[files]]
+file = "mods/tcintegrations.pw.toml"
+hash = "09182bd1b3fc6dd06653f717c830d9952a20a51ad3a673fc8a8e016c08ec65c7"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true
@@ -465,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-planner.pw.toml"
-hash = "d72b0d78d94e26b01372449c84692bd450a5b470ab8e0858280d4110fb920af7"
+hash = "c4493fdf5c83fc7179c0b8b4dae7ac1496e97779347f1787a4a77751ec0bbd30"
 metafile = true
 
 [[files]]
@@ -489,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4d0d86e17bf025071916466e771451b5ec0012487cc6f0f0bdfbb4cac00b16a7"
+hash = "51c763a2c4de2820adbb26e20517023ebb8aa2dcee837dcaceccbe674f49572c"
 preserve = true
 
 [[files]]

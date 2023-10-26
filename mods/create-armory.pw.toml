@@ -1,0 +1,13 @@
+name = "Create : Armory"
+filename = "createarmoryv0.6BP.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93b8f888a597ab38104239f12a64843b2c274950"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4630219
+project-id = 845950
