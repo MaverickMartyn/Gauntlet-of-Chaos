@@ -241,6 +241,21 @@ hash = "3f5ad64655a42c49cac624fc839a39f876a711871895308e19e4eaefc00ea53c"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "aa0cb222f2497eb5f0788f83c2a9c88611748e82101fef9192801e817d7d6919"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "3219dfca4b249e6f4fd34c4699455841feaea6d70f154bdb927fd9be8d9d3631"
+metafile = true
+
+[[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "00ceaf843e4b50f1b0c9a9410008f485785a99b9b5e30fd5471a5e630150b4fa"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
@@ -251,6 +266,11 @@ hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "a0281aaec51e530a9b77ea1436085895b2db0521866f0a9a7d8e0040f065123b"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "5209de0e2eeccacc8f2d554681f92deb78b4c108e596c60e580d5e2a1b3f2756"
 metafile = true
@@ -258,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-immersive-multiblocks.pw.toml"
 hash = "fda9e9ae2b6f37d61bd144d388c7baf7643aaaad0f13aad774ae57b70b7c9a35"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
 metafile = true
 
 [[files]]
@@ -343,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "a7d0b35cf3a0e786079271a0507835e974f9f2eb25187163e723a7ac59ce307f"
 metafile = true
 
 [[files]]
