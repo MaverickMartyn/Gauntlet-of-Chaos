@@ -2,6 +2,6 @@ version:3465
 autoJump:false
 guiScale:2
 onboardAccessibility:false
-soundCategory_music:0.2
+soundCategory_music:0.1
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
