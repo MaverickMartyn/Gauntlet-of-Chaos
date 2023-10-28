@@ -140,12 +140,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
+hash = "ba01e65f58fa0a9c56fdc580ff6a4cf1addc7862d93fba6d39e40e83f4679e93"
 metafile = true
 
 [[files]]
 file = "mods/better-title-screen.pw.toml"
-hash = "bc0062782409dadbe7a42bcac9adf0854d42dfa568d036fc80e33740c945d5fa"
+hash = "2c479aaaee029a88a868d973fc6bf5e8d639af7609b2436a587c42ae5b27b8eb"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "29f7a1cfbc20432885d12c36245b503103857c068b27865d804cbd06d9b386f9"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
@@ -437,12 +442,27 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.pw.toml"
+hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "4deff88a55e8dc34d60337e02ad4b6e06147147158996b283a48bc01e3e119a8"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "46953a9713797bdda5f028d7824e7aa9adbd311d907cdfacedbbbcea2a231824"
 metafile = true
 
 [[files]]
@@ -486,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
@@ -574,13 +594,18 @@ hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
 
 [[files]]
+file = "mods/xl-packets.pw.toml"
+hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "c034afc086eae6fde3300599f46a0ca85b83d4445515d459efe7d5706e12eace"
 preserve = true
 
 [[files]]
 file = "resourcepacks/weather2-retextured.pw.toml"
-hash = "cbae988ee2032c9984ce01015491580fc941333cd022f55232372b1903193cbe"
+hash = "dd14485b6a03e0aa92df99dece21c821d2bc45d2a6e3694081a6d1a411a6408f"
 metafile = true
 
 [[files]]

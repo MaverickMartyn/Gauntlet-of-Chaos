@@ -1,6 +1,6 @@
 name = "Weather2 Retextured"
 filename = "Weather2 Retextured.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
