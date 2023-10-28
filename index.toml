@@ -5,8 +5,20 @@ file = "config/betteranimationscollection-client.toml"
 hash = "eb4d71e25a5fabc7f5688f7face96c1cae8b887745b19e810568b3779a535e38"
 
 [[files]]
+file = "config/bettertitlescreen-client.toml"
+hash = "3bfbd429ba037a0233e3cf455e84e8525cf2b40218b052671b5525013736178b"
+
+[[files]]
 file = "config/hqm/default/description.txt"
 hash = "a51d5ad9458d4a3fde355f0bb88e32881d256d6611c337268d4d4e5558f9bb02"
+
+[[files]]
+file = "config/hqm/default/sets.json"
+hash = "f163cd23949d32c3342bd641b12107c009cd8108e42405aec38345be187223c4"
+
+[[files]]
+file = "config/hqm/default/sets/A_Taste_of_Vanilla.json"
+hash = "c17f8c841c4963fd99f7596ad1cc7b279e62dce349177c51c4dd2cfdd80a047d"
 
 [[files]]
 file = "config/hqm/front.png"
@@ -18,9 +30,21 @@ hash = "ccefc9950a22e0c5acc1bfc19c77112adfb9114bffe4fe167b27aea90e8eefd3"
 preserve = true
 
 [[files]]
+file = "config/lucky/1.18.2-13.1-forge/luck_crafting.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/lucky/1.18.2-13.1-forge/natural_gen.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/oculus.properties"
 hash = "3e9cabb7b3f47f68ca3dca41bb090ab9db20b32a3a4832d8497c3a599cdcd111"
 preserve = true
+
+[[files]]
+file = "config/physicsmod/physics_client_config.json"
+hash = "53e3da0db3d4f007049cd67ce604b5685dec01f4f270579dce05480e07e3df74"
 
 [[files]]
 file = "config/physicsmod/physics_server_config.json"
@@ -301,6 +325,10 @@ hash = "84b4827d806ab6282cbff32eef4011053dc78685f3df718805a50213e55b3a7f"
 metafile = true
 
 [[files]]
+file = "mods/lucky-block-forge-1.18.2-13.1.jar"
+hash = "93e8ae52b4779cb8d8142abca1cf4d2325900be1bfb11d03a3537b26b8a50bac"
+
+[[files]]
 file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
 hash = "27a46e5b34adacd0d258a288eace895404d743677f6d8068bfd433f33b44a671"
 metafile = true
@@ -371,9 +399,8 @@ hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "a7d0b35cf3a0e786079271a0507835e974f9f2eb25187163e723a7ac59ce307f"
-metafile = true
+file = "mods/moreoverlays-1.20.11-mc1.18.2.jar"
+hash = "90b7ef1a41e627902a33e4e2ffcf55dbbb459da7795a82556f10a49c739b6f56"
 
 [[files]]
 file = "mods/morph-o-tool.pw.toml"
@@ -527,6 +554,10 @@ metafile = true
 file = "options.txt"
 hash = "51c763a2c4de2820adbb26e20517023ebb8aa2dcee837dcaceccbe674f49572c"
 preserve = true
+
+[[files]]
+file = "scripts/disable-lucky-block-crafting.zs"
+hash = "89147eb8ec5a7459116ee4efd13e4fe8f39c34ddf8570bc346feed75dae88b50"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"

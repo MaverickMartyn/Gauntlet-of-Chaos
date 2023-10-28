@@ -1,0 +1,152 @@
+{
+  "name": "A Taste of Vanilla",
+  "quests": [
+    {
+      "uuid": "bb004f0e-0554-414e-b349-6e5efd8776f5",
+      "name": {
+        "text": "The Queen of The Void",
+        "isTranslationKey": false
+      },
+      "description": {
+        "text": "Take down The Ender Dragon",
+        "isTranslationKey": false
+      },
+      "x": 78,
+      "y": 76,
+      "bigicon": true,
+      "icon": {
+        "id": "minecraft:dragon_head",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": {
+                "text": "Slay The Dragon",
+                "isTranslationKey": false
+              },
+              "icon": {
+                "id": "minecraft:dragon_head",
+                "Count": 1
+              },
+              "mob": "minecraft:ender_dragon",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0ba5dad6-1a5d-4445-b3ad-f0848ab2b9ec",
+        "6f4ca78a-5fb6-43c1-806e-a12b91a7926d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "hardcorequesting:heart",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0ba5dad6-1a5d-4445-b3ad-f0848ab2b9ec",
+      "name": {
+        "text": "A Withering Stare",
+        "isTranslationKey": false
+      },
+      "description": {
+        "text": "Kill the Wither",
+        "isTranslationKey": false
+      },
+      "x": 27,
+      "y": 18,
+      "icon": {
+        "id": "minecraft:wither_skeleton_skull",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": {
+                "text": "Kill The Wither",
+                "isTranslationKey": false
+              },
+              "icon": {
+                "id": "minecraft:wither_skeleton_skull",
+                "Count": 1
+              },
+              "mob": "minecraft:wither",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "lucky:lucky_block",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6f4ca78a-5fb6-43c1-806e-a12b91a7926d",
+      "name": {
+        "text": "Guardian of The Blue",
+        "isTranslationKey": false
+      },
+      "description": {
+        "text": "Slay the Elder Guardian",
+        "isTranslationKey": false
+      },
+      "x": 130,
+      "y": 15,
+      "icon": {
+        "id": "minecraft:heart_of_the_sea",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "mobs": [
+            {
+              "name": {
+                "text": "Slay The Elder Guardi",
+                "isTranslationKey": false
+              },
+              "icon": {
+                "id": "minecraft:heart_of_the_sea",
+                "Count": 1
+              },
+              "mob": "minecraft:elder_guardian",
+              "kills": 1
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "hardcorequesting:heart",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": {
+    "text": "Let\u0027s start out easy.",
+    "isTranslationKey": false
+  }
+}

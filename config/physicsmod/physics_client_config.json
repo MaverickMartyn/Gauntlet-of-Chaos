@@ -1,0 +1,10 @@
+{
+  "blockSettings": {
+    "Physics Type": 0,
+    "Lifetime": 0.7,
+    "Lifetime Variance": 1.0,
+    "Scale": 1.0,
+    "Animation": -1
+  },
+  "smokeParticleLimit": 2000
+}
