@@ -188,6 +188,11 @@ hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "e4d2d558f3a44c059788554b6394c126d2993be30c8649da92fabb8fd2e4623f"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
 metafile = true
