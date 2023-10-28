@@ -1,0 +1,13 @@
+name = "Weather2 Retextured"
+filename = "Weather2 Retextured.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c7873c789af3d1cb7b5c4de3201d1f22e39c921"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331625
+project-id = 809143

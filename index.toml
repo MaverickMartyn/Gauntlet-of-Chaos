@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "a10505ee3d8bc0a1db30b2ab135432548f28a47d4f878e284226b97aaf17eb2f"
+
+[[files]]
 file = "config/betteranimationscollection-client.toml"
 hash = "eb4d71e25a5fabc7f5688f7face96c1cae8b887745b19e810568b3779a535e38"
 
@@ -135,6 +139,11 @@ hash = "2b3124f8247a3e103e3d0d6114a1b8485639005232b34d4f52f0eef86eed7b59"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "8614a548dcf88638360bac9aad937286937f87e8ee157c7348387ef81ec51ef0"
+metafile = true
+
+[[files]]
 file = "mods/better-title-screen.pw.toml"
 hash = "bc0062782409dadbe7a42bcac9adf0854d42dfa568d036fc80e33740c945d5fa"
 metafile = true
@@ -161,6 +170,11 @@ hash = "11fca1a61419e08f364d1a8fd88f40f34c218b74c97ba946698af5c2fe1970f3"
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "e3e760083a637df661d976e4d7ad986074b0e2f624e03414f236ddc18bb455e9"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
 metafile = true
 
 [[files]]
@@ -550,14 +564,24 @@ hash = "7566e584dc2ba7115ce13ee79f5f15f32798f9559d3c01decace774634893159"
 metafile = true
 
 [[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "5a03f0fc83f9d9b490eae6b0a596805e556029198a449adcaa8a18fb2e2b4a66"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "01399fef27404a511bfc9b6dad93773e1847c394e86d258d4fa1f3ef9171288c"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "51c763a2c4de2820adbb26e20517023ebb8aa2dcee837dcaceccbe674f49572c"
+hash = "c034afc086eae6fde3300599f46a0ca85b83d4445515d459efe7d5706e12eace"
 preserve = true
+
+[[files]]
+file = "resourcepacks/weather2-retextured.pw.toml"
+hash = "cbae988ee2032c9984ce01015491580fc941333cd022f55232372b1903193cbe"
+metafile = true
 
 [[files]]
 file = "scripts/disable-lucky-block-crafting.zs"

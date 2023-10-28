@@ -5,3 +5,4 @@ onboardAccessibility:false
 soundCategory_music:0.1
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Weather2 Retextured.zip","white_icons"]
