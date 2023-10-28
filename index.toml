@@ -134,6 +134,11 @@ hash = "64c2364baacefebd24d450e81e440fa074b89533ffef0159b2913c7cf23c1061"
 metafile = true
 
 [[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "2122a8e7c979649586f69ad7d67bc9e7765c4495147f8f93f4d86237c095eed8"
+metafile = true
+
+[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "2b3124f8247a3e103e3d0d6114a1b8485639005232b34d4f52f0eef86eed7b59"
 metafile = true
@@ -175,6 +180,11 @@ hash = "11fca1a61419e08f364d1a8fd88f40f34c218b74c97ba946698af5c2fe1970f3"
 [[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "e3e760083a637df661d976e4d7ad986074b0e2f624e03414f236ddc18bb455e9"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
 metafile = true
 
 [[files]]
@@ -600,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c034afc086eae6fde3300599f46a0ca85b83d4445515d459efe7d5706e12eace"
+hash = "609a42b3328457a5bb8977dad79194647140eb190c44d37c09cc1f3419f683a9"
 preserve = true
 
 [[files]]
@@ -611,6 +621,10 @@ metafile = true
 [[files]]
 file = "scripts/disable-lucky-block-crafting.zs"
 hash = "89147eb8ec5a7459116ee4efd13e4fe8f39c34ddf8570bc346feed75dae88b50"
+
+[[files]]
+file = "servers.dat"
+hash = "c032aab058a345d4f33e94f95cb728f275e44aa6b0d14128bfaa37135b913163"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
