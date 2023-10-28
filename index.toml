@@ -52,6 +52,10 @@ hash = "8d9c24916c53a74dca5c73c051a9bcd3afb9d0550f744d2321b7afa665bc660d"
 preserve = true
 
 [[files]]
+file = "config/physicsmod/physics_vines_client_config.json"
+hash = "9fffc90bf64b71a427212541100a05d410b13521321340bbd76819b99cb60454"
+
+[[files]]
 file = "icon.png"
 hash = "96ac950042743559ecbbd58c61a31221d18669056b5d4aeda27a0e909a490430"
 
