@@ -9,6 +9,8 @@
 * [X] Initial test quest line (Vanilla boss fights).
 * [ ] Is *Better Title Screen* working? May not respond to config changes after exiting world.
 * [ ] Add Origins.
+* [ ] Test servr install/update.
+* [ ] Initial dedicated server test.
 * [ ] Update README.md.
 * [ ] Consider disabling, or turning down smoke physics, since it can get laggy, for example during the Wither boss fight.
 * [ ] Test VoiceChat.
