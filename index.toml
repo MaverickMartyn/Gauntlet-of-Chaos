@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Weather2/Tornado.toml"
-hash = "a10505ee3d8bc0a1db30b2ab135432548f28a47d4f878e284226b97aaf17eb2f"
+hash = "24c3ed9dbac9733562a95d173e0a448cb9a21b6563e8cba227d0b2f0524689f5"
 
 [[files]]
 file = "config/betteranimationscollection-client.toml"
