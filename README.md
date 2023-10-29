@@ -10,6 +10,7 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 ## More info
 * [Mod list](MODS.md)
 * [TODO list](TODO.md)
+* [Download the pack here](https://github.com/MaverickMartyn/Gauntlet-of-Chaos/releases/)
 * [Pack format specification](https://github.com/packwiz/packwiz-spec)
 
 ## Tweaked Settings
