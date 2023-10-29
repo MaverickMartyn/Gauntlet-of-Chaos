@@ -8,3 +8,6 @@ header_pages:
   - README.md
   - TODO.md
   - MODS.md
+
+minima:
+  skin: auto
