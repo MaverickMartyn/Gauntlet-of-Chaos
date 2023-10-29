@@ -13,6 +13,11 @@ file = "config/bettertitlescreen-client.toml"
 hash = "3bfbd429ba037a0233e3cf455e84e8525cf2b40218b052671b5525013736178b"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "2765edabac4e456ac3e28741786493bd06e34fb31fb4929b06be2f561387ba72"
+preserve = true
+
+[[files]]
 file = "config/hqm/config.json5"
 hash = "4be51068781c75465b54bac23e644b17570109d7be4f32b4021d58217c090966"
 
@@ -679,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "609a42b3328457a5bb8977dad79194647140eb190c44d37c09cc1f3419f683a9"
+hash = "95db678e1c781397d5bd58a39a406a764cc7b8e1db244b979da01d3652890de3"
 preserve = true
 
 [[files]]

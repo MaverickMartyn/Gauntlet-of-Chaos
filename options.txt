@@ -11,3 +11,5 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_key.journeymap.create_waypoint:key.keyboard.unknown
 resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Weather2 Retextured.zip","white_icons"]
 skipMultiplayerWarning:true
+key_key.emotecraft.fastchoose:key.keyboard.t:SHIFT
+key_key.valkyrienskies.ship_down:key.keyboard.x
