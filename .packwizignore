@@ -10,3 +10,11 @@ _config.yml
 _layouts/
 _includes/
 favicon.ico
+Gemfile.lock
+Gemfile
+404.html
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

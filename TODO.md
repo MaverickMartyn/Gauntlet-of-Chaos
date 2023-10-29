@@ -1,3 +1,9 @@
+---
+layout: page
+title: Todo
+permalink: /todo/
+---
+
 # TODO
 
 * [X] Throw initial mods together and test.

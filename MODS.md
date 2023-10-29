@@ -1,3 +1,9 @@
+---
+layout: page
+title: Mods
+permalink: /mods/
+---
+
 # Mods
 
 > Note: This list is not currently accurate.  

@@ -3,3 +3,10 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# Jekyll build files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

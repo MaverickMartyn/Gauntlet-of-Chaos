@@ -1,3 +1,12 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: The Gauntlet of Chaos
+permalink: /
+---
+
 # The Gauntlet of Chaos
 > This pack is focused on surviving the harsh environment in a modded hardcore scenario.  
 There are multiple dangers in the form of natural disasters, new mobs, dungeons and bosses.  
