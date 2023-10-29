@@ -629,7 +629,7 @@ hash = "89147eb8ec5a7459116ee4efd13e4fe8f39c34ddf8570bc346feed75dae88b50"
 
 [[files]]
 file = "servers.dat"
-hash = "c032aab058a345d4f33e94f95cb728f275e44aa6b0d14128bfaa37135b913163"
+hash = "2a8de3c822e9620ece5595fe6fc8f76c0690380983a774544f1e0d8a1340d077"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
