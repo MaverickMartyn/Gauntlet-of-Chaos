@@ -2,8 +2,7 @@ source              : .
 destination         : ./_site
 theme               : minima
 
-minima:
-  header_pages:
-    - README.md
-    - TODO.md
-    - MODS.md
+header_pages:
+  - README.md
+  - TODO.md
+  - MODS.md
