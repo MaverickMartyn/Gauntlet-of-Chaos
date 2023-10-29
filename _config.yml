@@ -1,6 +1,8 @@
 source              : .
 destination         : ./_site
-theme               : minima
+theme               : minimalayout: page
+
+title: "The Gauntlet of Chaos"
 
 header_pages:
   - README.md

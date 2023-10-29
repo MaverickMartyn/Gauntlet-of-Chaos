@@ -1,4 +1,4 @@
-# Gauntlet of Chaos
+# The Gauntlet of Chaos
 > This pack is focused on surviving the harsh environment in a modded hardcore scenario.  
 There are multiple dangers in the form of natural disasters, new mobs, dungeons and bosses.  
 In multiplayer, players can be rescued within a time limit if downed. Upon death, a corpse is left behind. Extra lives can be earned through progress.  
