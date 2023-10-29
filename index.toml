@@ -13,6 +13,10 @@ file = "config/bettertitlescreen-client.toml"
 hash = "3bfbd429ba037a0233e3cf455e84e8525cf2b40218b052671b5525013736178b"
 
 [[files]]
+file = "config/hqm/config.json5"
+hash = "4be51068781c75465b54bac23e644b17570109d7be4f32b4021d58217c090966"
+
+[[files]]
 file = "config/hqm/default/description.txt"
 hash = "a51d5ad9458d4a3fde355f0bb88e32881d256d6611c337268d4d4e5558f9bb02"
 
