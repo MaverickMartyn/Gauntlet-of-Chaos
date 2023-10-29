@@ -1,0 +1,13 @@
+name = "StateObserver"
+filename = "StateObserver-forge-1.18.2-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f56d60495b2421f88c60f9b34b6ac69cac03dde2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4793861
+project-id = 701213

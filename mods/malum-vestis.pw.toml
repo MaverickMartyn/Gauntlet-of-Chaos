@@ -1,0 +1,13 @@
+name = "Malum: Vestis"
+filename = "vestis-1.18.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1d8b44bf40ae27248351765e04c9b6a56d21dca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4431524
+project-id = 836208

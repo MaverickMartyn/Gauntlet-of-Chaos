@@ -1,0 +1,13 @@
+name = "Enchanted: Witchcraft"
+filename = "enchanted-1.18.2-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef7580dc57671e9f86fd42ff813f05f2dbc4e6ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4793875
+project-id = 560363
