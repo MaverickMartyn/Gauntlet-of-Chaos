@@ -248,6 +248,11 @@ hash = "929b4a599e93bbdf36d581d0f76c89ec74e2bc44431bbf68298453e3d2005e62"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft-forge.pw.toml"
+hash = "4df84c4c3e6ea3b6f75d8b34147843118fc02e8b73a583d6c13e2be242603e78"
+metafile = true
+
+[[files]]
 file = "mods/engineers-construct.pw.toml"
 hash = "b858dd42be6da2bb175325dad70c952048736b7f7ccf104837f8b3c9042ecd88"
 metafile = true
@@ -487,6 +492,11 @@ hash = "050e2c322077496857991e1ca1c047c151ce069da796b542e65484375dc4f26c"
 [[files]]
 file = "mods/ping.pw.toml"
 hash = "bccb920749aaec398b62ce4d3352fd8ec42e5d1d9e01dd3f78e132e44262ddf7"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "13178bc94d32f9b96e0fc78b8014eabd0ed3b1a21931f2f6027ff0eebc5e7e33"
 metafile = true
 
 [[files]]
