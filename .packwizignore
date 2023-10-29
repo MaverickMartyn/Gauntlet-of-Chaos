@@ -8,3 +8,4 @@
 # Exclude Jekyll files.
 _config.yml
 _layouts/
+favicon.ico

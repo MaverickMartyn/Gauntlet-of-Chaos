@@ -3,13 +3,13 @@ autoJump:false
 guiScale:2
 onboardAccessibility:false
 soundCategory_music:0.1
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Weather2 Retextured.zip","white_icons"]
+skipMultiplayerWarning:true
+key_key.emotecraft.fastchoose:key.keyboard.t:SHIFT
+key_key.valkyrienskies.ship_down:key.keyboard.x
 key_key.sneak:key.keyboard.left.control
 key_key.sprint:key.keyboard.left.shift
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.semicolon
 key_iris.keybind.reload:key.keyboard.unknown
 key_key.journeymap.create_waypoint:key.keyboard.unknown
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","quark:emote_resources","file/Weather2 Retextured.zip","white_icons"]
-skipMultiplayerWarning:true
-key_key.emotecraft.fastchoose:key.keyboard.t:SHIFT
-key_key.valkyrienskies.ship_down:key.keyboard.x

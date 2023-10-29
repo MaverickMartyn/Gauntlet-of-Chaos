@@ -1,11 +1,12 @@
 # Mods
 
-(?) = Under consideration.
+> Note: This list is not currently accurate.  
+Until it is updated, please refer to the /mods folder in the repository.
 
 **Quality of Life & UI:**
 * JourneyMap (or other map mod)
 * Building Gadgets (Tools/items for making building stuff easier)
-* Just Enough Items (opskrifter osv.)
+* Just Enough Items (recipes etc.)
 * Appleskin (Better hunger HUD)
 * Better Advancements
 * Fast Leaf Decay

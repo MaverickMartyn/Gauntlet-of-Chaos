@@ -15,8 +15,11 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * [Pack format specification](https://github.com/packwiz/packwiz-spec)
 
 ## Tweaked Settings
+* **Controls and Keybinds**
+    * Many rebinds. See [options.txt](options.txt) for details.
 * **Physics Mod**
     * Disabled `collapse` setting, to avoid the aggressive structural integrity implementation.
+    * Maxed out `stiffness` at `5000`, and set `collision` to `false` on all trapdoors, to fix their weird behavior.
 * **Better Animations Collection**
     * Disabled Wobbly Creepers since they looks a bit silly.
 * **Inventory Profiles**
@@ -24,7 +27,20 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 * **Hardcore Questing Mode**
     * Added custom logo on frontpage. (Might want to replace with more appropriate art at some point)
     * Custom quest lines and rewards.
-* **Vanilla**:
+* **Vanilla**
     * Set GUI scale to 2 (Better default size).
-    * Set music volume to 20% by default.
+    * Set music volume to 10% by default.
     * Swapped sprint and sneak controls.
+    * Disabled auto jumping.
+    * Skipped multiplayer warning.
+    * Added servers to server list.
+* **Shaders and Resource Packs**
+    * *Complementary Unbound* shaders enabled by default.
+    * *Weather2 Retextured* enabled by default.
+* **Weather2**
+    * Disabled tornados and cyclones for now.  
+    Need to make sure it isn't too destructive.
+* **Lucky Block**
+    * Disabled "Luck Crafting".
+    * Disabled crafting of Lucky Blocks using Craft Tweaker.
+    * Disabled natural generation
