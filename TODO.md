@@ -12,9 +12,10 @@
 * [X] Test server install/update.
 * [X] Initial dedicated server test.
 * [X] Setup server for initial test.
-* [ ] Add *Enchanted: Witchcraft*
-* [ ] Add *Primal Magick*
-* [ ] Add *Malum*
+* [X] Add *Enchanted: Witchcraft*
+* [X] Add *Primal Magick*
+* [X] Add *Malum*
+* [ ] Maybe add more food and *Cooking For Blokheads*?
 * [ ] Maybe add *Origins Need Umbrellas*
 * [ ] Maybe add *Malum: Vestis*
 * [ ] First test with multiple players.
