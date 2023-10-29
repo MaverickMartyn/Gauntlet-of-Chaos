@@ -1,6 +1,6 @@
 source              : .
 destination         : ./_site
-theme               : minimalayout: page
+theme               : minima
 
 title: "The Gauntlet of Chaos"
 
