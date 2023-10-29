@@ -16,6 +16,8 @@
 * [X] Add *Primal Magick*
 * [X] Add *Malum*
 * [ ] Maybe add more food and *Cooking For Blokheads*?
+* [ ] Add *Origins: Classes*.
+* [ ] Add more origins.
 * [ ] Maybe add *Origins Need Umbrellas*
 * [ ] Maybe add *Malum: Vestis*
 * [ ] First test with multiple players.
