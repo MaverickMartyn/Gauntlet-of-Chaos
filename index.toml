@@ -182,6 +182,11 @@ file = "mods/clockwork-forge-0.0.1-alpha350ee73315.jar"
 hash = "11fca1a61419e08f364d1a8fd88f40f34c218b74c97ba946698af5c2fe1970f3"
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "4d5cfa79f9675b5bd2a8711d48977ad63b7d198eb46c5cc7bb165a8f909101ac"
+metafile = true
+
+[[files]]
 file = "mods/config-menus-forge.pw.toml"
 hash = "e3e760083a637df661d976e4d7ad986074b0e2f624e03414f236ddc18bb455e9"
 metafile = true
