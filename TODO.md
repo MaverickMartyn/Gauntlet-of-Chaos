@@ -11,10 +11,17 @@
 * [X] Add Origins.
 * [X] Test server install/update.
 * [X] Initial dedicated server test.
+* [X] Setup server for initial test.
+* [ ] Add *Enchanted: Witchcraft*
+* [ ] Add *Primal Magick*
+* [ ] Add *Malum*
+* [ ] Maybe add *Origins Need Umbrellas*
+* [ ] Maybe add *Malum: Vestis*
+* [ ] First test with multiple players.
+* [ ] Test VoiceChat.
 * [ ] Is *Better Title Screen* working? May not respond to config changes after exiting world.
 * [ ] Update README.md.
 * [ ] Consider disabling, or turning down smoke physics, since it can get laggy, for example during the Wither boss fight.
-* [ ] Test VoiceChat.
 * [ ] Get overview of all bosses.
 * [ ] Build Questlines.
     * Guide: [https://ftb.fandom.com/wiki/Hardcore_Questing_Mode:_An_In-Depth_Guide](https://ftb.fandom.com/wiki/Hardcore_Questing_Mode:_An_In-Depth_Guide).

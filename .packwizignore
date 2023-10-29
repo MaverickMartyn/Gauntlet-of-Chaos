@@ -2,7 +2,6 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
-/README.md
-/TODO.md
+/*.md
 .gitkeep
 .github/
