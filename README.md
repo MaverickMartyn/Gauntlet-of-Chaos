@@ -16,12 +16,14 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 
 **Note: Still designing. Everything is subject to change.**
 
-## More info
-* [Mod list](MODS.md)
-* [TODO list](TODO.md)
-* [Download the pack here](https://github.com/MaverickMartyn/Gauntlet-of-Chaos/releases/)
-* [Repository](https://github.com/MaverickMartyn/Gauntlet-of-Chaos/)
-* [Pack format specification](https://github.com/packwiz/packwiz-spec)
+## Looking for a Download?
+[![Download button](/assets/downloadbutton.png 'Download modpack')]({{ site.github.releases_url }}){:target="_blank"}
+
+## Relevant links
+* For an overview of the included mods, check out the [Mod list](MODS.md)
+* Follow current progress on the [TODO list](TODO.md)
+* Download the pack [here]({{ site.github.releases_url }})
+* Find code [here]({{ site.github.repository_url }})
 
 ## Tweaked Settings
 * **Controls and Keybinds**

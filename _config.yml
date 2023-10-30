@@ -34,6 +34,7 @@ author: MaverickMartyn
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-github-metadata
 
 header_pages:
   - README.md
