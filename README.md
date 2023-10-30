@@ -17,7 +17,7 @@ Includes some light magic and tech mods, as well as custom ship building for tra
 **Note: Still designing. Everything is subject to change.**
 
 ## Looking for a Download?
-[![Download button](/assets/downloadbutton.png 'Download modpack')]({{ site.github.releases_url }}){:target="_blank"}
+[![Download button]({{ site.baseurl }}/assets/downloadbutton.png 'Download modpack')]({{ site.github.releases_url }}){:target="_blank"}
 
 ## Relevant links
 * For an overview of the included mods, check out the [Mod list](MODS.md)
