@@ -55,3 +55,23 @@ Includes some light magic and tech mods, as well as custom ship building for tra
     * Disabled "Luck Crafting".
     * Disabled crafting of Lucky Blocks using Craft Tweaker.
     * Disabled natural generation
+
+## Building the modpack
+### Requirements
+* [Packwiz](https://packwiz.infra.link/){:target="_blank"} for managing the included mods and files.
+* [Git LFS](https://git-lfs.com/){:target="_blank"} for handling larger files like internal .jar mod files.
+
+### How to build
+* After adding or updating internal files like configs, run `packwiz refresh` to update the index. The index should be updated and committed after each change on the `master` branch.
+* Run `packwiz serve` to host a local webserver, serving the mod files for local testing.
+
+## Building the webpage locally
+### Requirements
+* [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} for building GitHub pages site locally.
+
+### How to build
+* Run `bundle exec jekyll serve` to serve the Ruby site locally.
+
+## Releasing updates
+The `.github/workflows/static.yml` file defines a GitHub Actions workflow, which builds the site and hosts it along with all mod files on GitHub Pages.  
+This workflow is configured to automatically publish on new commits to the `master` branch.
